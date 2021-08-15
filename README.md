@@ -1,0 +1,1 @@
+# soc_con_idx
